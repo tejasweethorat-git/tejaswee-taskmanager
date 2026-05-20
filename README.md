@@ -182,7 +182,7 @@ authentication and role-based permissions.
 
 ## Author
 
-  Name    :  Tejaswee Thorat
-  Email   :  tejasweethorat76@gmail.com
+  Name    :  Tejaswee Thorat 
+  Email   :  tejasweethorat76@gmail.com 
   Project :  Team Task Manager
 
