@@ -109,7 +109,7 @@ TaskFlow is a collaborative task management platform built for teams. It support
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow.git
+git clone https://github.com/tejasweethorat-git/tejaswee-taskmanager.git
 cd taskflow
 ```
 
